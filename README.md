@@ -1,3 +1,9 @@
+
+Nama : Hafidza Nur Afifah  
+NIM : 235410012  
+Kelas : Informatika 1  
+
+---
 # LOAD BALANCING FLASK + NGINX MENGGUNAKAN PODMAN (WINDOWS)
 
 ---
